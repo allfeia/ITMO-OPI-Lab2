@@ -1,5 +1,3 @@
-#!/bin/bash
-
 rm -rf ./repo ./working_copy
 
 svnadmin create repo
