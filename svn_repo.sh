@@ -1,4 +1,4 @@
-rm -rf ./repo ./working_copy
+rm -rf repo working_copy
 
 svnadmin create repo
 REPO_URL="file://$(pwd)/repo"
